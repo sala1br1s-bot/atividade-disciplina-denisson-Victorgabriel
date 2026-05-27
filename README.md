@@ -17,8 +17,8 @@ Este projeto foi desenvolvido em HTML no VS Code com o objetivo de apresentar co
 1. Instale o Python.
 2. Abra o projeto no VS Code.
 3. Execute:
-(```bash
-python programa.py)
+
+python programa.py
 
 ## 📅 Data de Entrega
 27/05/2026 
