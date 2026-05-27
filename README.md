@@ -16,9 +16,10 @@ Este projeto foi desenvolvido em HTML no VS Code com o objetivo de apresentar co
 - [01 index.html](https://github.com/user-attachments/files/28325929/01.index.html)
 
 ## ▶ Como Executar
-1. Instale o Python.
-2. Abra o projeto no VS Code.
-3. Execute:
+1. Instale o vscode.
+2. baixe a extensão do python.
+3. Abra o projeto no VS Code.
+4. Execute:
 
 python programa.py
 
